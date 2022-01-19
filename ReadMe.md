@@ -27,23 +27,6 @@ run the project.
   
   
  ![image](https://user-images.githubusercontent.com/64175026/150038722-d4084d57-5bc1-4aa3-b861-bcf7a5162d3c.png)
-
-  
-  
-  ![image](https://user-images.githubusercontent.com/64175026/150038735-231350ae-6a16-4be2-964d-196d9b1472e2.png)
-
-    
-  ![image](https://user-images.githubusercontent.com/64175026/150038752-037a8442-9ab1-437c-900c-e1104f249d89.png)
-
-  
-  ![image](https://user-images.githubusercontent.com/64175026/150038777-671a052f-7fd5-43ab-8f0c-1d2ad4fea943.png)
-
-  
-  
-  ![image](https://user-images.githubusercontent.com/64175026/150038794-04ca5a51-c570-4cd9-a5be-4b32a59a1549.png)
-  
-  
-  ![image](https://user-images.githubusercontent.com/64175026/150038820-58ab726b-e716-496e-91d0-1aef87dfa55c.png)
   
   
   ![image](https://user-images.githubusercontent.com/64175026/150038834-16d9a9b7-1df6-4b84-b3f2-c2a4cb5867fa.png)
