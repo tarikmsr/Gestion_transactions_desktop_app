@@ -25,10 +25,6 @@ run the project.
   ![image](https://user-images.githubusercontent.com/64175026/150038709-19147d30-8c09-484d-b12d-ff36ba4c0ad9.png)
 
   
-  
- ![image](https://user-images.githubusercontent.com/64175026/150038722-d4084d57-5bc1-4aa3-b861-bcf7a5162d3c.png)
-  
-  
   ![image](https://user-images.githubusercontent.com/64175026/150038834-16d9a9b7-1df6-4b84-b3f2-c2a4cb5867fa.png)
 
   
