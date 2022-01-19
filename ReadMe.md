@@ -7,6 +7,9 @@ This project is created in object-oriented java Language with intellij IDEA .
 Also, Swing for offers the possibility to create identical graphical interfaces.
 
 
+This application uses MySQL as a DATABASE management system.
+
+
 ### How to use it
 To use it you need to open the server and database* (xampp for example) for database ,we used MySQL .
 and Create a database called : java.
